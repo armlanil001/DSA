@@ -13,4 +13,4 @@ function reverseInt(x) {
     return xCopy<0?-rev:rev;
 }
 
-console.log(reverseInt(-956));
+console.log(reverseInt(1534236469));

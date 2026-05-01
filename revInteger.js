@@ -1,3 +1,4 @@
+// reverse an integer
 function reverseInt(x) {
     let rev = 0;
     let xCopy = x;

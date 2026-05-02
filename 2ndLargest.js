@@ -19,4 +19,4 @@ function secondLargest(arr) {
 
 let arr = [10, 99, 4, 66, 78, 93,99];
 let result = secondLargest(arr)
-console.log(result)
+console.log(result,'result')

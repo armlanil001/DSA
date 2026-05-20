@@ -1,5 +1,5 @@
 let arr = [4,9,1,0,2];
-let target = 0;
+let target = 10;
 
 function findTarget(arr,target){
      for(let i=0;i<arr.length;i++){
@@ -7,6 +7,7 @@ function findTarget(arr,target){
             return i;
         }
      }
+     return -1
 }
 
 console.log(findTarget(arr,target));

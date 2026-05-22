@@ -20,4 +20,4 @@ function binarySearch(arr,target){
     return -1;
 }
 
-console.log(binarySearch(arr,target));
+console.log(binarySearch(arr,target),'binarry');
